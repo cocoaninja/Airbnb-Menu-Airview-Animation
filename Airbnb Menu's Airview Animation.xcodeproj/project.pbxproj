@@ -14,6 +14,7 @@
 		BFF747921A52AA3200AE37FE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFF747911A52AA3200AE37FE /* Images.xcassets */; };
 		BFF747951A52AA3200AE37FE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFF747931A52AA3200AE37FE /* LaunchScreen.xib */; };
 		BFF747A11A52AA3300AE37FE /* Airbnb_Menu_s_Airview_AnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BFF747A01A52AA3300AE37FE /* Airbnb_Menu_s_Airview_AnimationTests.m */; };
+		BFF747AB1A52AB5D00AE37FE /* CNimage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BFF747AA1A52AB5D00AE37FE /* CNimage.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		BFF7479A1A52AA3300AE37FE /* Airbnb Menu's Airview AnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Airbnb Menu's Airview AnimationTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFF7479F1A52AA3300AE37FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BFF747A01A52AA3300AE37FE /* Airbnb_Menu_s_Airview_AnimationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Airbnb_Menu_s_Airview_AnimationTests.m; sourceTree = "<group>"; };
+		BFF747AA1A52AB5D00AE37FE /* CNimage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CNimage.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				BFF7478E1A52AA3200AE37FE /* Main.storyboard */,
 				BFF747911A52AA3200AE37FE /* Images.xcassets */,
 				BFF747931A52AA3200AE37FE /* LaunchScreen.xib */,
+				BFF747AA1A52AB5D00AE37FE /* CNimage.jpg */,
 				BFF747841A52AA3200AE37FE /* Supporting Files */,
 			);
 			path = "Airbnb Menu's Airview Animation";
@@ -201,6 +204,7 @@
 			files = (
 				BFF747901A52AA3200AE37FE /* Main.storyboard in Resources */,
 				BFF747951A52AA3200AE37FE /* LaunchScreen.xib in Resources */,
+				BFF747AB1A52AB5D00AE37FE /* CNimage.jpg in Resources */,
 				BFF747921A52AA3200AE37FE /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
