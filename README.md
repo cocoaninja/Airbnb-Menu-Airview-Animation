@@ -4,7 +4,7 @@
 
 Airbnb Menu's Airview Animation is a drop-in easy-to-use library
 that provides a simple way to integrate a 3D UIView animation
-just like Airbnb's last updated Airview menu into your iOS applications. 
+just like Airbnb's last updated Airview menu into your iOS apps. 
 
 <img src="CNscreenshotBefore.png"/>
 <img src="CNscreenshotAfter.png"/>
